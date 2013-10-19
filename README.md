@@ -1,4 +1,4 @@
-csvjinja
+CSVToTemplate
 ========
 
-A quick and dirty script to render templates with csv data.  It does not actually use jinja.  Instead, I chose to use python template variables.
+A quick and dirty script to render templates with csv data.  Uses the standard python libray string templating language.
